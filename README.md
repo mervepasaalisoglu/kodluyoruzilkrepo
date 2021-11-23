@@ -3,7 +3,7 @@
 Bu repo [KODLUYORUZ](https://www.kodluyoruz.org/) FRONT-End Eğitiminde oluşturduğumuz il repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![image](https://www.hizliresim.com/7ydio0s) 
+![image](https://i.hizliresim.com/7ydio0s.png) 
 
 
 ## Installation
